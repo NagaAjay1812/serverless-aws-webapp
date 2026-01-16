@@ -8,15 +8,9 @@ The project demonstrates an end-to-end **frontend → backend → database** flo
 ## 🏗️ Architecture
 
 
-Browser
-↓
-S3 Static Website
-↓
-API Gateway (REST API)
-↓
-AWS Lambda
-↓
-Amazon DynamoDB
+Browser -> S3 Static Website -> API Gateway (REST API) -> AWS Lambda -> Amazon DynamoDB
+
+
 
 
 
