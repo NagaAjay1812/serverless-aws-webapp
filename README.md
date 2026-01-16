@@ -6,7 +6,7 @@ The project demonstrates an end-to-end **frontend → backend → database** flo
 ---
 
 ## 🏗️ Architecture
-
+![Serverless Architecture](diagrams/architecture.png)
 
 Browser -> S3 Static Website -> API Gateway (REST API) -> AWS Lambda -> Amazon DynamoDB
 
